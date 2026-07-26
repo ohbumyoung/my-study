@@ -1,0 +1,9 @@
+HTML, CSS, JS 각각의 개념과 역할
+HTML :  <h1>큰 제목 <p>글 <ul><li>리스트 <input>... 등 웹페이지의 구조와 내용을 담당한다.
+CSS : h1{color font size margine padding} 등 디자인과 배치를 담당한다. 
+JS : addEventListener, quaryElementById 등 웹 페이지에 동작과 기능을 추가한다.
+
+Flex 와 Grid 차이점
+Flex : 1차원 레이아웃이며 네비게이션 배치에 적합하며 한 뱡향으로 배치할 때 적합하다.
+
+Grid : 2차원 레이아웃이며 카드 목록 배치에 적합하며 행과 열을 동시에 관리한다.
